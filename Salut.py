@@ -1,1 +1,1 @@
-print("Salut")
+print("Nu ia 4 la mate")
